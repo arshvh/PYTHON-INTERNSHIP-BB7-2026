@@ -9,3 +9,4 @@ total_words = len(words)
 file.close()
 
 print("Total number of words:", total_words)
+
